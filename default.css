@@ -1,0 +1,45 @@
+.bg-color-1 {
+ background-color: #393C3E; /*gris obscuro*/
+}
+.bg-color-2 {
+ background-color: #E2E2E2;/*gris medio*/
+}
+.bg-color-4 {
+ background-color: #4A90E2;/*azul medio*/
+}
+.cell-type-1 {
+ background-color: #E2E2E2;/*gris medio*/
+ border: #A0A2A2;
+ border-width: 1px;
+ border-style: solid;
+}
+.cell-type-1-alt {
+ border: #A0A2A2;
+ border-width: 1px;
+ border-style: solid;
+}
+.border-type-1 {
+ border: #A0A2A2;
+ border-width: 1px;
+ border-style: solid;
+}
+.field-title-1 {
+font-size: 8pt;
+color: #3C3D3E;
+}
+.field-mini-1 {
+font-size: 5pt;
+color: #3C3D3E;
+}
+.border-left-1{
+ border-left-color: #A0A2A2;
+ border-left-width: 1px;
+ border-left-style: solid;
+ padding: 0;
+}
+.border-right-1{
+ borde-right-color: #A0A2A2;
+ borde-right-width: 1px;
+ borde-right-style: solid;
+ padding: 0;
+}

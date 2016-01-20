@@ -1,0 +1,6 @@
+<Result>
+	<Formato HomoClave="123456" FechaPublicacionDia="02" FechaPublicacionMes="01" FechaPublicacionAno="2016" NombreArea="Secretaría de Desarrollo Social" FolioSolicitud="FS-123456789" FechaSolicitudDia="05" FechaSolicitudMes="01" FechaSolicitudAno="2016"/>
+	<Solicitante>
+		<Informacion CURP="CAGI8407011D3456A4" Nombre="JUAN ALBERTO" PrimeApellido="VELAZQUEZ" SegundoApellido="LOPEZ" Edad="35" SexoHombre="x" SexoMujer=""/>
+	</Solicitante>
+</Result>
